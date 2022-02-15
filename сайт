@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+
+<body style="width:100%;background-color: #2E015C;">
+    <div style="position: absolute;
+        background: url(Group_6.png);
+        width: 467px;height: 569.85px;
+        left: 136px;
+        top: 400.13px;">
+    </div>
+    <div style="position: absolute;
+    background: url(Group_5.png);
+    width: 455.98px;
+    height: 495px;
+    left: 1287px;
+    top: 99px;">
+    </div>
+    <div style="position: absolute;
+        width: 1095px;
+        height: 813px;
+        left: 408px;
+        top: 147px; 
+        background: linear-gradient(261.38deg, #0060d9 18.47%, #004193 93.48%); 
+        border-radius: 51px;">
+        <p style="padding-left: 20%;
+        padding-right: 20%;
+        color: white;
+        padding-top: 15%;
+        font-size: 18px;
+        font: 15pt sans-serif;
+        line-height:30px;
+        font-weight: 700; ">
+            Начинаем с простенького. Судя по мультфильму, Чебурашка и Гена много гуляли и ходили
+            пешком.
+            А вот если бы они устали, то могли бы спокойно воспользоваться любым другим способом передвижения, кроме
+            одного.
+            Какого? </p>
+    </div>
+    <div
+        style="position: absolute; 
+        width: 940px;
+        height: 6px;
+        left: 490px;
+        top: 178px;
+        background: #0096EC; border-radius: 10px;">
+    </div>
+    <div
+        style="position: absolute;
+        width: 134px;
+        height: 6px;
+        left: 490px;
+        top: 178px;
+        background: #6BFF2F;
+        border-radius: 10px 0px 0px 10px;">
+    </div>
+    <div style="position: absolute;
+        width: 201px;
+        height: 257px;
+        left: 744px;
+        top: 614px;
+        background: #012350;
+        border-radius: 26px;"></div>
+    <div style="position: absolute;
+         width: 200px;
+         height: 257px;
+        left: 481px;
+        top: 613px;
+        border-radius: 20px;
+        background: url(image\ 3.png);"></div>
+    <div style="position: absolute;
+         width: 200px;
+        height: 271px;
+        left: 734px;
+        top: 593px;
+        background: url(image\ 2.png);
+        border-radius: 20px;"></div>
+    <div style="position: absolute;
+         width: 200px;
+        height: 257px;
+        left: 986px;
+        top: 613px;
+        border-radius: 20px;
+        background: url(image\ 4.png);"> </div>
+    <div style="position: absolute;
+         width: 200px;
+         height: 257px;
+         left: 1239px;
+         top: 613px;
+         border-radius: 20px;
+        background: url(image\ 5.png);"></div>
+
+</body>
+
+</html>
+Извините вот мой код html. в css переделать не смогу так как по семейным причинам должен уйти.
